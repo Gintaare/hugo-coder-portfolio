@@ -140,9 +140,9 @@ Each `language` section overrides default site's parameters when that language i
         [languages.en.menu] # It is possible to change the menu too.
 
         [[languages.en.menu.main]]
-        name = "About"
+        name = "Works"
         weight = 1.0
-        url = "about"
+        url = "works"
 
         [[languages.en.menu.main]]
         name = "Blog"
